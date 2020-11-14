@@ -1,0 +1,6 @@
+﻿  test01.c
+C:\Users\lenovo\Desktop\C语言实验项目1\test01.c(1,1): error C2059: 语法错误:“for”
+C:\Users\lenovo\Desktop\C语言实验项目1\test01.c(1,19): error C2143: 语法错误: 缺少“{”(在“<”的前面)
+C:\Users\lenovo\Desktop\C语言实验项目1\test01.c(1,19): error C2059: 语法错误:“<”
+C:\Users\lenovo\Desktop\C语言实验项目1\test01.c(1,26): error C2059: 语法错误:“++”
+C:\Users\lenovo\Desktop\C语言实验项目1\test01.c(1,29): error C2059: 语法错误:“)”
