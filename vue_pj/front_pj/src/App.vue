@@ -1,27 +1,28 @@
 <template>
-  <div id="app">
+  <!doctype html>
+  <html>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="H:\test-box\vue_pj\output.css" rel="stylesheet">
+  </head>
+  <body>
 
-    <router-view/>
-  </div>
+  </body>
+  </html>
 </template>
 
+<!--导入tailwindcss框架-->
 @import 'tailwindcss/base';
 @import 'tailwindcss/components';
 @import 'tailwindcss/utilities';
 
 <script>
-export default {
-  name: 'App'
-}
+
 </script>
 
 <style>
-#app {
-  font-family: 'Avenir', Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
-  margin-top: 60px;
-}
+
 </style>
+
+
